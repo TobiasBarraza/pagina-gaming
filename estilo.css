@@ -1,0 +1,17 @@
+.jumbotron{
+    background-image: url(/image/gaming2.jpg);
+    height: 450px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 0;
+    margin-bottom: 0;
+
+}
+h1{
+    color: white;
+
+}
+p{
+    color: white;
+}
